@@ -1,0 +1,32 @@
+body{
+	background-color: #89cff0;
+	background-size: contain;
+}
+.navbar-nav{
+	margin: auto;
+	font-size: 25px;
+}
+.navbar-brand{
+	font-variant: small-caps;
+	font-size: 30px;
+}
+.button{
+	background-color: #f4c2c2;
+    text-align: center;
+    border-radius: 20px 0px 20px 0px;
+    padding: 10px;
+}
+#ikon{
+    width: 100px;;
+    height: 100px;
+}
+#kepek{
+    width: 300px;
+    height: 350px;
+}
+.szoveg{
+    padding: 20px;
+}
+.container{
+    padding: 20px;
+}
